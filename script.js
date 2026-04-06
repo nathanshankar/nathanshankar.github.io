@@ -756,7 +756,7 @@ const contentData = {
   "location": "University of Manchester",
   "socials": {
     "github": "<a href="https://github.com/nathanshankar" target="_blank">github.com/nathanshankar</a>",
-    "linkedin": "<a href="https://linkedin.com/in/nathanshankar" target="_blank">linkedin.com/in/nathan-shankar-47912395/</a>",
+    "linkedin": "<a href="https://www.linkedin.com/in/nathan-shankar-47912395/" target="_blank">linkedin.com/in/nathan-shankar-47912395/</a>",
     "email": "nathanshankar465@gmail.com"
   }
 }
